@@ -1,0 +1,5 @@
+Assignment 4 Part 2 Work Log
+
+Start: Tue, 10 Feb 2015 12:41:37 -0700
+End: Sat, 7 Feb 2015 13:26:24 -0700 
+Tasks: Got connection to the onid database implemented.
