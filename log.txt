@@ -12,3 +12,7 @@ Tasks: Got input validation for Add video parameters implemented.
 Start: Tue, 10 Feb 2015 19:27:45 -0700
 End: Wed, 11 Feb 2015 00:57:12 -0700
 Tasks: Fully finished implementing the assignment.
+
+Start: Tue, 10 Feb 2015 00:57:12 -0700
+End: Wed, 11 Feb 2015 01:30:21 -0700
+Tasks: Fixed a couple of bugs, mostly input validation related issues.
