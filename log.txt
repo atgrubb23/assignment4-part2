@@ -7,3 +7,8 @@ Tasks: Got connection to the onid database implemented.
 Start: Tue, 10 Feb 2015 17:36:12 -0700
 End: Tue, 10 Feb 2015 19:05:23 -0700
 Tasks: Got input validation for Add video parameters implemented.
+
+
+Start: Tue, 10 Feb 2015 19:27:45 -0700
+End: Wed, 11 Feb 2015 00:57:12 -0700
+Tasks: Fully finished implementing the assignment.
